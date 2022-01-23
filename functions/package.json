@@ -1,0 +1,13 @@
+{
+  "name": "nhost-custom-email-verification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pierre-Louis Mercereau",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
